@@ -1,0 +1,33 @@
+.fake-badge {
+    font-weight: normal;
+    font-family: "Roboto", sans-serif;
+    padding: 0.4rem 1rem;
+    letter-spacing: 0.04rem;
+    margin: 10px 0px;
+    font-size: 0.8rem;
+    background: #ffe7e0;
+    color: black;
+    border-radius: 10px;
+}
+
+.star-holder {
+    color: #ffaf07;
+    margin: 8px 0px;
+    font-size: 1rem;
+}
+
+.solution-glance {
+    background-color: #ffe7e0;
+   
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+
+}
+
+
+* {
+    box-sizing: border-box;
+}

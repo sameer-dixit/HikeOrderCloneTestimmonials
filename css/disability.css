@@ -1,0 +1,15 @@
+.fake-badge {
+    font-weight: normal;
+    font-family: "Roboto", sans-serif;
+    padding: 0.4rem 1rem;
+    letter-spacing: 0.04rem;
+    margin: 10px 0px;
+    font-size: 0.8rem;
+    background: #ffe7e0;
+    color: black;
+    border-radius: 10px;
+}
+.solution-glance {
+    background-color: #ffe7e0;
+    height: 200px;
+}
